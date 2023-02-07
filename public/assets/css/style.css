@@ -1,13 +1,5 @@
-/**
-* Template Name: Day - v4.7.0
-* Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -192,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   display: flex;
   list-style: none;
-  align-items: center;
+  align-items: right;
 }
 .navbar li {
   position: relative;
@@ -366,7 +358,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: calc(100vh - 110px);
+  height: calc(100vh - 200px);
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
